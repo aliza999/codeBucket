@@ -14,7 +14,8 @@ public class Rosee
        System.out.println("press 3 for naila");
      System.out.println("press 4 for saliha ");
      System.out.println("press 5 for blue");
-        System.out.println("enter your choice");
+   System.out.println("press 7 for hania");   
+     System.out.println("enter your choice");
 
            y=s.nextInt();
            switch(y)
@@ -40,8 +41,15 @@ break;
 	       case 5:
 System.out.println("blue");
 break;
+
 	       case 6:
 System.out.println("mani");
+break;
+
+
+
+	       case 7:
+System.out.println("hania");
 break;
 
 	   } 
