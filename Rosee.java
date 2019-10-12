@@ -40,6 +40,10 @@ break;
 	       case 5:
 System.out.println("blue");
 break;
+	       case 6:
+System.out.println("mani");
+break;
+
 	   } 
     }
 }
